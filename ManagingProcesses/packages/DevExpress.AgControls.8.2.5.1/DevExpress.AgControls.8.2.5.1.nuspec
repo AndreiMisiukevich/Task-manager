@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>DevExpress.AgControls</id>
+    <version>8.2.5.1</version>
+    <authors>Developer Express Inc.</authors>
+    <owners>Developer Express Inc.</owners>
+    <iconUrl>http://www.spreadtrends.com/images/graph_goingup.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Contains the free Silverlight based Menu and Datagrid controls from DevExpress</description>
+    <copyright>Copyright 2012</copyright>
+    <tags>DevExpress Controls Silverlight</tags>
+  </metadata>
+</package>
