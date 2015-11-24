@@ -26,3 +26,31 @@ U:\6semestr\Course project\ManagingProcesses\BusinessLogic\bin\Debug\Xpand.Persi
 U:\6semestr\Course project\ManagingProcesses\BusinessLogic\bin\Debug\Xpand.Persistent.BaseImpl.pdb
 U:\6semestr\Course project\ManagingProcesses\BusinessLogic\bin\Debug\Xpand.Utils.pdb
 U:\6semestr\Course project\ManagingProcesses\BusinessLogic\bin\Debug\Xpand.Xpo.pdb
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\AForge.dll
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\AForge.Imaging.dll
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\AForge.Math.dll
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\AForge.Video.dll
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\DevExpress.AgDataGrid.v8.2.dll
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\DevExpress.AgMenu.v8.2.dll
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\Fasterflect.dll
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\System.Web.Silverlight.dll
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\Xpand.ExpressApp.Chart.Win.dll
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\Xpand.Persistent.Base.dll
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\Xpand.Persistent.BaseImpl.dll
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\Xpand.Utils.dll
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\Xpand.Xpo.dll
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\AForge.xml
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\AForge.Imaging.xml
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\AForge.Math.xml
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\AForge.Video.xml
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\Fasterflect.xml
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\Xpand.ExpressApp.Chart.Win.pdb
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\Xpand.Persistent.Base.pdb
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\Xpand.Persistent.BaseImpl.pdb
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\Xpand.Utils.pdb
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\bin\Debug\Xpand.Xpo.pdb
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Univer\Task-manager\ManagingProcesses\BusinessLogic\obj\Debug\BusinessLogic.pdb

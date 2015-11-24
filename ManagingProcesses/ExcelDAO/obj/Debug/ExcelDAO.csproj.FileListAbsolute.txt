@@ -26,3 +26,31 @@ U:\6semestr\Course project\ManagingProcesses\ExcelDAO\bin\Debug\Xpand.Persistent
 U:\6semestr\Course project\ManagingProcesses\ExcelDAO\bin\Debug\Xpand.Utils.pdb
 U:\6semestr\Course project\ManagingProcesses\ExcelDAO\bin\Debug\Xpand.Xpo.pdb
 U:\6semestr\Course project\ManagingProcesses\ExcelDAO\obj\Debug\ExcelDAO.csprojResolveAssemblyReference.cache
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\ExcelDAO.dll
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\ExcelDAO.pdb
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\AForge.dll
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\AForge.Imaging.dll
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\AForge.Math.dll
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\AForge.Video.dll
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\DevExpress.AgDataGrid.v8.2.dll
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\DevExpress.AgMenu.v8.2.dll
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\Fasterflect.dll
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\System.Web.Silverlight.dll
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\Xpand.ExpressApp.Chart.Win.dll
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\Xpand.Persistent.Base.dll
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\Xpand.Persistent.BaseImpl.dll
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\Xpand.Utils.dll
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\Xpand.Xpo.dll
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\AForge.xml
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\AForge.Imaging.xml
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\AForge.Math.xml
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\AForge.Video.xml
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\Fasterflect.xml
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\Xpand.ExpressApp.Chart.Win.pdb
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\Xpand.Persistent.Base.pdb
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\Xpand.Persistent.BaseImpl.pdb
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\Xpand.Utils.pdb
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\bin\Debug\Xpand.Xpo.pdb
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\obj\Debug\ExcelDAO.csprojResolveAssemblyReference.cache
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\obj\Debug\ExcelDAO.dll
+D:\Univer\Task-manager\ManagingProcesses\ExcelDAO\obj\Debug\ExcelDAO.pdb
