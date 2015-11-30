@@ -85,3 +85,4 @@ D:\Univer\Task-manager\ManagingProcesses\ManagingProcesses\bin\Debug\Xpand.Persi
 D:\Univer\Task-manager\ManagingProcesses\ManagingProcesses\bin\Debug\Xpand.Persistent.BaseImpl.pdb
 D:\Univer\Task-manager\ManagingProcesses\ManagingProcesses\bin\Debug\Xpand.Utils.pdb
 D:\Univer\Task-manager\ManagingProcesses\ManagingProcesses\bin\Debug\Xpand.Xpo.pdb
+D:\Univer\Task-manager\ManagingProcesses\ManagingProcesses\obj\Debug\ManagingProcesses.MostFatProcesses.resources

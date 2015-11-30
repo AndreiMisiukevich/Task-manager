@@ -64,6 +64,7 @@
     <Reference Include="Infragistics4.Win.UltraWinChart.v15.1, Version=15.1.20151.2013, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
     <Reference Include="System.Web.Silverlight">
       <HintPath>..\packages\DevExpress.AgControls.8.2.5.1\lib\net35\System.Web.Silverlight.dll</HintPath>
       <Private>True</Private>
@@ -111,6 +112,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="MostFatProcesses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MostFatProcesses.Designer.cs">
+      <DependentUpon>MostFatProcesses.cs</DependentUpon>
+    </Compile>
     <Compile Include="NewProcess.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -130,6 +137,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MostFatProcesses.resx">
+      <DependentUpon>MostFatProcesses.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="NewProcess.resx">
       <DependentUpon>NewProcess.cs</DependentUpon>
