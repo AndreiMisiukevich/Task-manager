@@ -31,3 +31,36 @@ U:\6semestr\Course project\ManagingProcesses\DEMOConsole\bin\Debug\Xpand.Persist
 U:\6semestr\Course project\ManagingProcesses\DEMOConsole\bin\Debug\Xpand.Persistent.BaseImpl.pdb
 U:\6semestr\Course project\ManagingProcesses\DEMOConsole\bin\Debug\Xpand.Utils.pdb
 U:\6semestr\Course project\ManagingProcesses\DEMOConsole\bin\Debug\Xpand.Xpo.pdb
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\DEMOConsole.exe.config
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\DEMOConsole.exe
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\DEMOConsole.pdb
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\AForge.dll
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\AForge.Imaging.dll
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\AForge.Math.dll
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\AForge.Video.dll
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\BusinessLogic.dll
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\DevExpress.AgDataGrid.v8.2.dll
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\DevExpress.AgMenu.v8.2.dll
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\ExcelDAO.dll
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\Fasterflect.dll
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\System.Web.Silverlight.dll
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\Xpand.ExpressApp.Chart.Win.dll
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\Xpand.Persistent.Base.dll
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\Xpand.Persistent.BaseImpl.dll
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\Xpand.Utils.dll
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\Xpand.Xpo.dll
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\BusinessLogic.pdb
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\ExcelDAO.pdb
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\AForge.xml
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\AForge.Imaging.xml
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\AForge.Math.xml
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\AForge.Video.xml
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\Fasterflect.xml
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\Xpand.ExpressApp.Chart.Win.pdb
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\Xpand.Persistent.Base.pdb
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\Xpand.Persistent.BaseImpl.pdb
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\Xpand.Utils.pdb
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\bin\Debug\Xpand.Xpo.pdb
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\obj\Debug\DEMOConsole.csprojResolveAssemblyReference.cache
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\obj\Debug\DEMOConsole.exe
+D:\Univer\Task-manager\ManagingProcesses\DEMOConsole\obj\Debug\DEMOConsole.pdb

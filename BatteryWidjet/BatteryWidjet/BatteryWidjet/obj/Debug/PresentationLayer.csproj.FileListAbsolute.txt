@@ -1,0 +1,26 @@
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\BatteryWidjet\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\BatteryWidjet\obj\Debug\BatteryWidjet.Properties.Resources.resources
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\BatteryWidjet\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\BatteryWidjet\bin\Debug\BatteryWidjet.exe.config
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\BatteryWidjet\bin\Debug\BatteryWidjet.exe
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\BatteryWidjet\bin\Debug\BatteryWidjet.pdb
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\BatteryWidjet\bin\Debug\BusinessLogic.dll
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\BatteryWidjet\bin\Debug\ProjectConfiguration.dll
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\BatteryWidjet\bin\Debug\BusinessLogic.pdb
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\BatteryWidjet\bin\Debug\ProjectConfiguration.pdb
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\BatteryWidjet\obj\Debug\BatteryWidjet.exe
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\BatteryWidjet\obj\Debug\BatteryWidjet.pdb
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\BatteryWidjet\obj\Debug\PresentationLayer.Form2.resources
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\BatteryWidjet\obj\Debug\PresentationLayer.Form1.resources
+D:\Univer\BatteryWidjet\BatteryWidjet\BatteryWidjet\bin\Debug\BatteryWidjet.exe.config
+D:\Univer\BatteryWidjet\BatteryWidjet\BatteryWidjet\bin\Debug\BatteryWidjet.exe
+D:\Univer\BatteryWidjet\BatteryWidjet\BatteryWidjet\bin\Debug\BatteryWidjet.pdb
+D:\Univer\BatteryWidjet\BatteryWidjet\BatteryWidjet\bin\Debug\ProjectConfiguration.dll
+D:\Univer\BatteryWidjet\BatteryWidjet\BatteryWidjet\bin\Debug\ProjectConfiguration.pdb
+D:\Univer\BatteryWidjet\BatteryWidjet\BatteryWidjet\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+D:\Univer\BatteryWidjet\BatteryWidjet\BatteryWidjet\obj\Debug\PresentationLayer.Form1.resources
+D:\Univer\BatteryWidjet\BatteryWidjet\BatteryWidjet\obj\Debug\PresentationLayer.Form2.resources
+D:\Univer\BatteryWidjet\BatteryWidjet\BatteryWidjet\obj\Debug\BatteryWidjet.Properties.Resources.resources
+D:\Univer\BatteryWidjet\BatteryWidjet\BatteryWidjet\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
+D:\Univer\BatteryWidjet\BatteryWidjet\BatteryWidjet\obj\Debug\BatteryWidjet.exe
+D:\Univer\BatteryWidjet\BatteryWidjet\BatteryWidjet\obj\Debug\BatteryWidjet.pdb

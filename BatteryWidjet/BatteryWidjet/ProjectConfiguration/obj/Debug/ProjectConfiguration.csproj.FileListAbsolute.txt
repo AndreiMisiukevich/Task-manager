@@ -1,0 +1,9 @@
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\ProjectConfiguration\obj\Debug\ProjectConfiguration.csprojResolveAssemblyReference.cache
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\ProjectConfiguration\bin\Debug\ProjectConfiguration.dll
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\ProjectConfiguration\bin\Debug\ProjectConfiguration.pdb
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\ProjectConfiguration\obj\Debug\ProjectConfiguration.dll
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\ProjectConfiguration\obj\Debug\ProjectConfiguration.pdb
+D:\Univer\BatteryWidjet\BatteryWidjet\ProjectConfiguration\bin\Debug\ProjectConfiguration.dll
+D:\Univer\BatteryWidjet\BatteryWidjet\ProjectConfiguration\bin\Debug\ProjectConfiguration.pdb
+D:\Univer\BatteryWidjet\BatteryWidjet\ProjectConfiguration\obj\Debug\ProjectConfiguration.dll
+D:\Univer\BatteryWidjet\BatteryWidjet\ProjectConfiguration\obj\Debug\ProjectConfiguration.pdb

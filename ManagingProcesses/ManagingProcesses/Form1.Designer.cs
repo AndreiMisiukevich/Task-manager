@@ -28,44 +28,50 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea5 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend5 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series5 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea6 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend6 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series6 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.label1 = new System.Windows.Forms.Label();
             this.tabPage4 = new System.Windows.Forms.TabPage();
-            this.chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.chart2 = new System.Windows.Forms.DataVisualization.Charting.Chart();
+            this.chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
             this.button4 = new System.Windows.Forms.Button();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
             this.tabPage1 = new System.Windows.Forms.TabPage();
-            this.dataGridProcesses = new System.Windows.Forms.DataGridView();
-            this.WatchThreads = new System.Windows.Forms.DataGridViewButtonColumn();
-            this.NumberOfThreads = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.ChangePriority = new System.Windows.Forms.DataGridViewButtonColumn();
-            this.Priority = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Memory = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.ProcessName = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.RefreshButton = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.observeTb = new System.Windows.Forms.TextBox();
+            this.observeButton = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
+            this.label2 = new System.Windows.Forms.Label();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.RefreshButton = new System.Windows.Forms.Button();
+            this.dataGridProcesses = new System.Windows.Forms.DataGridView();
+            this.ProcessName = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Memory = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Priority = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ChangePriority = new System.Windows.Forms.DataGridViewButtonColumn();
+            this.NumberOfThreads = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.WatchThreads = new System.Windows.Forms.DataGridViewButtonColumn();
             this.TabControlProcess = new System.Windows.Forms.TabControl();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.batteryWidgetToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.openToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tabPage4.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.chart1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.chart2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.chart1)).BeginInit();
             this.tabPage2.SuspendLayout();
             this.tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridProcesses)).BeginInit();
             this.TabControlProcess.SuspendLayout();
+            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // label1
@@ -91,38 +97,38 @@
             this.tabPage4.Text = "Chart";
             this.tabPage4.UseVisualStyleBackColor = true;
             // 
-            // chart1
-            // 
-            chartArea5.Name = "ChartArea1";
-            this.chart1.ChartAreas.Add(chartArea5);
-            legend5.Name = "Legend1";
-            this.chart1.Legends.Add(legend5);
-            this.chart1.Location = new System.Drawing.Point(0, 0);
-            this.chart1.Name = "chart1";
-            this.chart1.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.SeaGreen;
-            series5.ChartArea = "ChartArea1";
-            series5.Legend = "Legend1";
-            series5.Name = "Series1";
-            this.chart1.Series.Add(series5);
-            this.chart1.Size = new System.Drawing.Size(954, 200);
-            this.chart1.TabIndex = 0;
-            this.chart1.Text = "chart1";
-            // 
             // chart2
             // 
-            chartArea6.Name = "ChartArea1";
-            this.chart2.ChartAreas.Add(chartArea6);
-            legend6.Name = "Legend1";
-            this.chart2.Legends.Add(legend6);
+            chartArea1.Name = "ChartArea1";
+            this.chart2.ChartAreas.Add(chartArea1);
+            legend1.Name = "Legend1";
+            this.chart2.Legends.Add(legend1);
             this.chart2.Location = new System.Drawing.Point(3, 188);
             this.chart2.Name = "chart2";
-            series6.ChartArea = "ChartArea1";
-            series6.Legend = "Legend1";
-            series6.Name = "Series1";
-            this.chart2.Series.Add(series6);
+            series1.ChartArea = "ChartArea1";
+            series1.Legend = "Legend1";
+            series1.Name = "Series1";
+            this.chart2.Series.Add(series1);
             this.chart2.Size = new System.Drawing.Size(948, 197);
             this.chart2.TabIndex = 1;
             this.chart2.Text = "chart2";
+            // 
+            // chart1
+            // 
+            chartArea2.Name = "ChartArea1";
+            this.chart1.ChartAreas.Add(chartArea2);
+            legend2.Name = "Legend1";
+            this.chart1.Legends.Add(legend2);
+            this.chart1.Location = new System.Drawing.Point(0, 0);
+            this.chart1.Name = "chart1";
+            this.chart1.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.SeaGreen;
+            series2.ChartArea = "ChartArea1";
+            series2.Legend = "Legend1";
+            series2.Name = "Series1";
+            this.chart1.Series.Add(series2);
+            this.chart1.Size = new System.Drawing.Size(954, 200);
+            this.chart1.TabIndex = 0;
+            this.chart1.Text = "chart1";
             // 
             // tabPage2
             // 
@@ -140,42 +146,6 @@
             this.tabPage2.Text = "Statistics";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(256, 38);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(278, 21);
-            this.label3.TabIndex = 0;
-            this.label3.Text = "В данном приложении ведется";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(113, 75);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(280, 21);
-            this.label4.TabIndex = 1;
-            this.label4.Text = "полное логирование процессов";
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(399, 75);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(276, 21);
-            this.label5.TabIndex = 2;
-            this.label5.Text = "и потоков системы, а также их";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(139, 109);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(517, 21);
-            this.label6.TabIndex = 3;
-            this.label6.Text = "управлением. Для просмотра файла нажмите кнопку ниже";
-            // 
             // button4
             // 
             this.button4.Location = new System.Drawing.Point(279, 160);
@@ -186,8 +156,46 @@
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(139, 109);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(517, 21);
+            this.label6.TabIndex = 3;
+            this.label6.Text = "управлением. Для просмотра файла нажмите кнопку ниже";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(399, 75);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(276, 21);
+            this.label5.TabIndex = 2;
+            this.label5.Text = "и потоков системы, а также их";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(113, 75);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(280, 21);
+            this.label4.TabIndex = 1;
+            this.label4.Text = "полное логирование процессов";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(256, 38);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(278, 21);
+            this.label3.TabIndex = 0;
+            this.label3.Text = "В данном приложении ведется";
+            // 
             // tabPage1
             // 
+            this.tabPage1.Controls.Add(this.observeTb);
+            this.tabPage1.Controls.Add(this.observeButton);
             this.tabPage1.Controls.Add(this.button3);
             this.tabPage1.Controls.Add(this.button2);
             this.tabPage1.Controls.Add(this.button1);
@@ -203,6 +211,83 @@
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Processes";
             this.tabPage1.UseVisualStyleBackColor = true;
+            // 
+            // observeTb
+            // 
+            this.observeTb.BackColor = System.Drawing.Color.Snow;
+            this.observeTb.Location = new System.Drawing.Point(825, 345);
+            this.observeTb.Name = "observeTb";
+            this.observeTb.Size = new System.Drawing.Size(105, 29);
+            this.observeTb.TabIndex = 8;
+            // 
+            // observeButton
+            // 
+            this.observeButton.BackColor = System.Drawing.Color.SeaShell;
+            this.observeButton.Location = new System.Drawing.Point(825, 313);
+            this.observeButton.Name = "observeButton";
+            this.observeButton.Size = new System.Drawing.Size(105, 26);
+            this.observeButton.TabIndex = 7;
+            this.observeButton.Text = "Observe";
+            this.observeButton.UseVisualStyleBackColor = false;
+            this.observeButton.Click += new System.EventHandler(this.observeButton_Click);
+            this.observeButton.MouseDown += new System.Windows.Forms.MouseEventHandler(this.observeButton_MouseDown);
+            this.observeButton.MouseUp += new System.Windows.Forms.MouseEventHandler(this.observeButton_MouseUp);
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(825, 155);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(105, 62);
+            this.button3.TabIndex = 6;
+            this.button3.Text = "Run new process";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(825, 51);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(105, 98);
+            this.button2.TabIndex = 5;
+            this.button2.Text = "Try to close selected process";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(825, 280);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(105, 27);
+            this.button1.TabIndex = 4;
+            this.button1.Text = "Search";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(845, 220);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(64, 21);
+            this.label2.TabIndex = 3;
+            this.label2.Text = "Filter";
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(825, 245);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(105, 29);
+            this.textBox1.TabIndex = 2;
+            // 
+            // RefreshButton
+            // 
+            this.RefreshButton.Location = new System.Drawing.Point(825, 6);
+            this.RefreshButton.Name = "RefreshButton";
+            this.RefreshButton.Size = new System.Drawing.Size(105, 39);
+            this.RefreshButton.TabIndex = 1;
+            this.RefreshButton.Text = "Refresh";
+            this.RefreshButton.UseVisualStyleBackColor = true;
+            this.RefreshButton.Click += new System.EventHandler(this.RefreshButton_Click);
             // 
             // dataGridProcesses
             // 
@@ -224,38 +309,6 @@
             this.dataGridProcesses.TabIndex = 0;
             this.dataGridProcesses.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridProcesses_CellContentClick);
             // 
-            // WatchThreads
-            // 
-            this.WatchThreads.HeaderText = "Watch";
-            this.WatchThreads.Name = "WatchThreads";
-            this.WatchThreads.ReadOnly = true;
-            // 
-            // NumberOfThreads
-            // 
-            this.NumberOfThreads.HeaderText = "Thread\'s count";
-            this.NumberOfThreads.Name = "NumberOfThreads";
-            this.NumberOfThreads.ReadOnly = true;
-            // 
-            // ChangePriority
-            // 
-            this.ChangePriority.HeaderText = "Change prority";
-            this.ChangePriority.Name = "ChangePriority";
-            this.ChangePriority.ReadOnly = true;
-            // 
-            // Priority
-            // 
-            this.Priority.HeaderText = "Priority";
-            this.Priority.Name = "Priority";
-            this.Priority.ReadOnly = true;
-            this.Priority.Width = 150;
-            // 
-            // Memory
-            // 
-            this.Memory.HeaderText = "Memory, Bytes";
-            this.Memory.Name = "Memory";
-            this.Memory.ReadOnly = true;
-            this.Memory.Width = 120;
-            // 
             // ProcessName
             // 
             this.ProcessName.HeaderText = "Name";
@@ -264,61 +317,37 @@
             this.ProcessName.ReadOnly = true;
             this.ProcessName.Width = 200;
             // 
-            // RefreshButton
+            // Memory
             // 
-            this.RefreshButton.Location = new System.Drawing.Point(825, 6);
-            this.RefreshButton.Name = "RefreshButton";
-            this.RefreshButton.Size = new System.Drawing.Size(105, 39);
-            this.RefreshButton.TabIndex = 1;
-            this.RefreshButton.Text = "Refresh";
-            this.RefreshButton.UseVisualStyleBackColor = true;
-            this.RefreshButton.Click += new System.EventHandler(this.RefreshButton_Click);
+            this.Memory.HeaderText = "Memory, Bytes";
+            this.Memory.Name = "Memory";
+            this.Memory.ReadOnly = true;
+            this.Memory.Width = 120;
             // 
-            // textBox1
+            // Priority
             // 
-            this.textBox1.Location = new System.Drawing.Point(825, 280);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(105, 29);
-            this.textBox1.TabIndex = 2;
+            this.Priority.HeaderText = "Priority";
+            this.Priority.Name = "Priority";
+            this.Priority.ReadOnly = true;
+            this.Priority.Width = 150;
             // 
-            // label2
+            // ChangePriority
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(845, 256);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(64, 21);
-            this.label2.TabIndex = 3;
-            this.label2.Text = "Filter";
+            this.ChangePriority.HeaderText = "Change prority";
+            this.ChangePriority.Name = "ChangePriority";
+            this.ChangePriority.ReadOnly = true;
             // 
-            // button1
+            // NumberOfThreads
             // 
-            this.button1.Location = new System.Drawing.Point(825, 324);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(105, 38);
-            this.button1.TabIndex = 4;
-            this.button1.Text = "Search";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.NumberOfThreads.HeaderText = "Thread\'s count";
+            this.NumberOfThreads.Name = "NumberOfThreads";
+            this.NumberOfThreads.ReadOnly = true;
             // 
-            // button2
+            // WatchThreads
             // 
-            this.button2.Location = new System.Drawing.Point(825, 51);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(105, 98);
-            this.button2.TabIndex = 5;
-            this.button2.Text = "Try to close selected process";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
-            // 
-            // button3
-            // 
-            this.button3.Location = new System.Drawing.Point(825, 166);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(105, 62);
-            this.button3.TabIndex = 6;
-            this.button3.Text = "Run new process";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            this.WatchThreads.HeaderText = "Watch";
+            this.WatchThreads.Name = "WatchThreads";
+            this.WatchThreads.ReadOnly = true;
             // 
             // TabControlProcess
             // 
@@ -334,6 +363,31 @@
             this.TabControlProcess.TabIndex = 0;
             this.TabControlProcess.Click += new System.EventHandler(this.TabControlProcess_Click);
             // 
+            // menuStrip1
+            // 
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.batteryWidgetToolStripMenuItem});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(949, 24);
+            this.menuStrip1.TabIndex = 2;
+            this.menuStrip1.Text = "menuStrip1";
+            // 
+            // batteryWidgetToolStripMenuItem
+            // 
+            this.batteryWidgetToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.openToolStripMenuItem});
+            this.batteryWidgetToolStripMenuItem.Name = "batteryWidgetToolStripMenuItem";
+            this.batteryWidgetToolStripMenuItem.Size = new System.Drawing.Size(95, 20);
+            this.batteryWidgetToolStripMenuItem.Text = "Battery widget";
+            // 
+            // openToolStripMenuItem
+            // 
+            this.openToolStripMenuItem.Name = "openToolStripMenuItem";
+            this.openToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.openToolStripMenuItem.Text = "Open";
+            this.openToolStripMenuItem.Click += new System.EventHandler(this.openToolStripMenuItem_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -342,19 +396,23 @@
             this.ClientSize = new System.Drawing.Size(949, 472);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.TabControlProcess);
+            this.Controls.Add(this.menuStrip1);
+            this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "Managing system processes";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.tabPage4.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.chart1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.chart2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.chart1)).EndInit();
             this.tabPage2.ResumeLayout(false);
             this.tabPage2.PerformLayout();
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridProcesses)).EndInit();
             this.TabControlProcess.ResumeLayout(false);
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -387,6 +445,11 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn NumberOfThreads;
         private System.Windows.Forms.DataGridViewButtonColumn WatchThreads;
         private System.Windows.Forms.TabControl TabControlProcess;
+        private System.Windows.Forms.Button observeButton;
+        private System.Windows.Forms.TextBox observeTb;
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem batteryWidgetToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem openToolStripMenuItem;
     }
 }
 

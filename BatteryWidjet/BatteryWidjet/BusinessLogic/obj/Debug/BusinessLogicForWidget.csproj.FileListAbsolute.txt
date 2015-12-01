@@ -1,0 +1,7 @@
+D:\Univer\BatteryWidjet\BatteryWidjet\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Univer\BatteryWidjet\BatteryWidjet\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Univer\BatteryWidjet\BatteryWidjet\BusinessLogic\bin\Debug\ProjectConfiguration.dll
+D:\Univer\BatteryWidjet\BatteryWidjet\BusinessLogic\bin\Debug\ProjectConfiguration.pdb
+D:\Univer\BatteryWidjet\BatteryWidjet\BusinessLogic\obj\Debug\BusinessLogicForWidget.csprojResolveAssemblyReference.cache
+D:\Univer\BatteryWidjet\BatteryWidjet\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Univer\BatteryWidjet\BatteryWidjet\BusinessLogic\obj\Debug\BusinessLogic.pdb
