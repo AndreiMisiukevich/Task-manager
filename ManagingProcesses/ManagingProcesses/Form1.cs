@@ -1,15 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Windows.Forms.DataVisualization.Charting;
 using BusinessLogic;
 using ExcelDAO;
 using Timer = System.Windows.Forms.Timer;
@@ -55,12 +50,12 @@ namespace ManagingProcesses
         {
             FillFormWithProcesses();
             Timer timer = new Timer();
-            timer.Tick += new EventHandler(timer_Tick);
+            timer.Tick += timer_Tick;
             timer.Interval = TimeoutEventMilliSeconds;
             timer.Start();
 
             Timer timer2 = new Timer();
-            timer2.Tick += new EventHandler(timer_TickForLog);
+            timer2.Tick += timer_TickForLog;
             timer2.Interval = TimeoutEventMilliSeconds;
             timer2.Start();
 
@@ -344,6 +339,23 @@ namespace ManagingProcesses
         {
             observeButton.BackColor = Color.SeaShell;
             observeTb.BackColor = Color.Snow;
+        }
+
+        #endregion
+
+        #region Widget logic
+
+        private volatile Form _widgetForm;
+
+        private void openToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var thread = new Thread(() =>
+            {
+                    _widgetForm = new PresentationLayer.Form1();
+                    _widgetForm.Show();
+                    Application.Run();
+            }) {IsBackground = true};
+            thread.Start();
         }
 
         #endregion

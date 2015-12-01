@@ -1,0 +1,14 @@
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\BusinessLogic\bin\Debug\ProjectConfiguration.dll
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\BusinessLogic\bin\Debug\ProjectConfiguration.pdb
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Misiukevich Andrei\documents\visual studio 2013\Projects\BatteryWidjet\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\Univer\BatteryWidjet\BatteryWidjet\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Univer\BatteryWidjet\BatteryWidjet\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Univer\BatteryWidjet\BatteryWidjet\BusinessLogic\bin\Debug\ProjectConfiguration.dll
+D:\Univer\BatteryWidjet\BatteryWidjet\BusinessLogic\bin\Debug\ProjectConfiguration.pdb
+D:\Univer\BatteryWidjet\BatteryWidjet\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\Univer\BatteryWidjet\BatteryWidjet\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Univer\BatteryWidjet\BatteryWidjet\BusinessLogic\obj\Debug\BusinessLogic.pdb

@@ -171,6 +171,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\BatteryWidjet\BatteryWidjet\BatteryWidjet\PresentationLayer.csproj">
+      <Project>{ac35bec4-9de2-4b33-bd8a-9d5808498fac}</Project>
+      <Name>PresentationLayer</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Applications\Applications.csproj">
       <Project>{c85485d2-3df9-48f3-8de3-77250e43b4b8}</Project>
       <Name>Applications</Name>

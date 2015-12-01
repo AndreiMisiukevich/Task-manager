@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagingProcesses", "ManagingProcesses\ManagingProcesses.csproj", "{1331C71D-9885-4E52-848B-F3BEC2C9E98D}"
 EndProject
@@ -12,6 +12,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{66139810-A253-4942-8D89-976D5AD5CD11}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Applications", "Applications\Applications.csproj", "{C85485D2-3DF9-48F3-8DE3-77250E43B4B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectConfiguration", "..\BatteryWidjet\BatteryWidjet\ProjectConfiguration\ProjectConfiguration.csproj", "{1E8CC419-1CF9-4F41-BAB4-9C6B60031192}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationLayer", "..\BatteryWidjet\BatteryWidjet\BatteryWidjet\PresentationLayer.csproj", "{AC35BEC4-9DE2-4B33-BD8A-9D5808498FAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{C85485D2-3DF9-48F3-8DE3-77250E43B4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C85485D2-3DF9-48F3-8DE3-77250E43B4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C85485D2-3DF9-48F3-8DE3-77250E43B4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E8CC419-1CF9-4F41-BAB4-9C6B60031192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8CC419-1CF9-4F41-BAB4-9C6B60031192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8CC419-1CF9-4F41-BAB4-9C6B60031192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8CC419-1CF9-4F41-BAB4-9C6B60031192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC35BEC4-9DE2-4B33-BD8A-9D5808498FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC35BEC4-9DE2-4B33-BD8A-9D5808498FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC35BEC4-9DE2-4B33-BD8A-9D5808498FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC35BEC4-9DE2-4B33-BD8A-9D5808498FAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
